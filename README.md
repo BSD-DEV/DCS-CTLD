@@ -4,6 +4,8 @@ CTLD enhancements:
 
 Enhancements done: 
 
+* Aug, 2020:  Added functionality to Troop loading groups to provide an Artillery observer, or an ANGLICO observer for pickup. This is to be used in conjunction with the ARTY-ANGLICO.lua MOOSE script. 
+
 * Is not required to name the units anymore. all the helicopter units will be CTLD enabled but with size restrictions. 
 Limits also is now combined with CSAR troops transports. 
 
